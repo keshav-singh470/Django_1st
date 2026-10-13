@@ -1,0 +1,11 @@
+Step 1
+Create a box
+
+step 2.
+Scripts\activate
+
+step 3.
+instal Django
+
+step 4.
+verification
